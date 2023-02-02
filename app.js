@@ -1,4 +1,4 @@
-let name = "world"
+let name = "world my name is vamsi"
 
 const sayHi = (name)=> {
 console.log(`Hello ${name}`)
