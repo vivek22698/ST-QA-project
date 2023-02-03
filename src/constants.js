@@ -5,5 +5,11 @@ export let  teamData = [
         githubId : 'ArchithBilla',
         discordId : 'Archith'
     },
+{
+        sNo : 2,
+        name : 'Krishnavamsi Peddineni',
+        githubId : 'krishnavamsi-kp864',
+        discordId : 'krishnavamsi2497'
+    },
 
 ]
